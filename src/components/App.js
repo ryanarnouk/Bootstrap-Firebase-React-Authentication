@@ -10,7 +10,7 @@ import Homepage from './Homepage/Homepage';
 import RequireAuth from './ProtectedRoutes/RequireAuth';
 import noRequireAuth from './ProtectedRoutes/noRequireAuth';
 
-import { FirebaseContext, withFirebase } from './Firebase';
+import { withFirebase } from './Firebase';
 import { AuthUserContext } from './Session';
 
 class App extends Component {

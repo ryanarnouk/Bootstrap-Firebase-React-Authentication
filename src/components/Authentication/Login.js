@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 
 import { Link } from 'react-router-dom';
 
-import { withFirebase, FirebaseContext } from '../Firebase';
+import { withFirebase } from '../Firebase';
 
-import { AuthUserContext } from '../Session';
 
 const INITIAL_STATE = {
   email: '',
