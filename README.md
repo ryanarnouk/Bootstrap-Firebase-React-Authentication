@@ -6,6 +6,7 @@
     - Inside the firebase project, ensure that you enable sign up. Enable sign up with password/email.
     - Create and configure real time database. For now you can set it to test mode to allow read and write easily without much configuration. 
     - Inside of the realtime database create a /users directory with a placeholder inside. 
+    ![Example of Database](https://raw.githubusercontent.com/ryanarnouk/Firebase-React-Context-Biolerplate/master/public/exampledatabase.PNG)
 
 3. After configuring the firebase project simply add all the config variables from your project into a .env file as shown below: 
 ```
