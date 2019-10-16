@@ -1,14 +1,15 @@
 # Firebase React Context Biolerplate
 
 ## Getting Started
-1. Fork the repository
-2. Create a new Firebase project.
+1. Clone the repository `git clone`
+2. Install modules `npm install`
+3. Create a new Firebase project.
     - Inside the firebase project, ensure that you enable sign up. Enable sign up with password/email.
     - Create and configure real time database. For now you can set it to test mode to allow read and write easily without much configuration. 
     - Inside of the realtime database create a /users directory with a placeholder inside. 
     ![Example of Database](https://raw.githubusercontent.com/ryanarnouk/Firebase-React-Context-Biolerplate/master/public/exampledatabase.PNG)
 
-3. After configuring the firebase project simply add all the config variables from your project into a .env file as shown below: 
+4. After configuring the firebase project simply add all the config variables from your project into a .env file as shown below: 
 ```
 REACT_APP_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REACT_APP_AUTH_DOMAIN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
