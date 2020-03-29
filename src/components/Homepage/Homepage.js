@@ -30,7 +30,7 @@ class Homepage extends Component {
           <p>This is a responsive web application that uses Firebase's API for authentication while using react and react-bootstrap.</p>
           <p>Follow the steps in the README file found in the repository <a href="https://github.com/ryanarnouk/Bootstrap-Firebase-React-Authentication">here</a> in order to set up the authentication service with Firebase and get the app up and running.</p>
           <p>Once all the features with Firebase is functioning including Login, Signup, Forgot Password, and Change password this homepage and the profile page will serve as the starting point to build off of this template/boilerplate to build your app with authentication built in. </p>
-          <p>This project uses Bootstrap, one of the most popular frontend frameworks and offers responsive features to build off of. This is done using react-bootstrap. </p>
+          <p>This project uses Bootstrap, one of the most popular frontend frameworks and offers responsive features to build off. This is done using react-bootstrap. </p>
           <p>It also harnesses the capabilities of React context for the authentication state.</p>
         </Container>
       </div>
