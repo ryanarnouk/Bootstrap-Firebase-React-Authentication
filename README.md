@@ -2,7 +2,7 @@
 
 Bootstrap Firebase React Authentication is a web application that could be used as a boilerplate or template for any web app. The project uses Firebase to provide seamless authentication without the need for a server. The app uses React and its Context API which makes authentication state easy to track, reducing the need to manually pass props through each level. On the frontend, react-bootstrap helps create the design and make the website responsive for any screen size. After all, Bootstrap is one of the most popular design libraries.  
 
-### Features
+## Features
 - Responsive
 - Quick and easy authentication
 - Sign up page
@@ -15,7 +15,7 @@ Bootstrap Firebase React Authentication is a web application that could be used 
 
 ![Homepage](https://raw.githubusercontent.com/ryanarnouk/Bootstrap-Firebase-React-Authentication/master/public/homepage.png)
 
-### Getting Started
+## Getting Started
 1. Clone the repository `git clone https://github.com/ryanarnouk/Bootstrap-Firebase-React-Authentication`
 2. Install all the modules using `npm install`
 3. Create a new Firebase project in the Firebase console.
@@ -54,7 +54,7 @@ https://firebase.google.com/docs/auth/?authuser=0
 
 6. Once email and password sign in is enabled and firebase configured you can run the application using `npm start`
 
-### Pages & Screenshots
+## Pages & Screenshots
 
 ![Login Page](https://raw.githubusercontent.com/ryanarnouk/Bootstrap-Firebase-React-Authentication/master/public/loginform.png)
 
@@ -65,3 +65,9 @@ https://firebase.google.com/docs/auth/?authuser=0
 ![Forgot Password](https://raw.githubusercontent.com/ryanarnouk/Bootstrap-Firebase-React-Authentication/master/public/forgotpasswordform.png)
 
 ![Profile](https://raw.githubusercontent.com/ryanarnouk/Bootstrap-Firebase-React-Authentication/master/public/changepasswordpage.png)
+
+
+## License
+This project uses the MIT license. Additional information can be found in `LICENSE.md`
+
+Ryan Arnouk 2020
